@@ -25,4 +25,4 @@
 
 ## ❤️ 共建
 
-若您有兴趣参与共建或有想法建议，欢迎在 [issue](https://github.com/zoo-js/welcome/issues) 里提出 ~
+若您有兴趣 参与共建 或 想法建议，欢迎在 [issue](https://github.com/zoo-js/welcome/issues) 里提出 ~
