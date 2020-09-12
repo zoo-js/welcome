@@ -8,12 +8,13 @@
   以萌宠为生态，建立一个可爱、欢乐的游乐园，萌萌哒。
 </div>
 
-## 🍭 现有项目
-
-- 💖 领养
+## 🍭 项目
+### 💖 完成
+- 领养
   - 地址：https://github.com/zoo-js/zoo
+  - 线上预览领取：https://zoo-js.github.io/zoo-issue-helper/
 
-## ✨ 未来计划
+### ✨ 在建
 
 - 工具
 
