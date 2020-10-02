@@ -1,3 +1,5 @@
+简体中文 | [English](./what-we-can.en-US.md)
+
 ## 我们可以做什么
 
 ### 1. 展示萌宠
