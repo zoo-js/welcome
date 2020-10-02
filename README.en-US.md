@@ -36,5 +36,5 @@ If you are interested in participating in construction or ideas or suggestions, 
 
 ## 🎁 QA
 
-- [How to show ?](./how-to-show.md)
-- [What we can ?](./what-we-can.md)
+- [How to show ?](./how-to-show.en-US.md)
+- [What we can ?](./what-we-can.en-US.md)
