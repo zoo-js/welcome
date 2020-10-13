@@ -15,8 +15,8 @@
 ### 💖 Done
 
 - Adopt
-  - Address：https://github.com/zoo-js/zoo
-  - Online preview adopt：https://zoo-js.github.io/zoo-issue-helper/
+  - Address: https://github.com/zoo-js/zoo
+  - Online preview adopt: https://zoo-js.github.io/zoo-issue-helper/
 
 ### ✨ Will do
 
@@ -28,7 +28,7 @@
 
 - Decreation
   - Xiao Xiao Le
-  - Rubik's cube
+  - Rubik's cube: https://github.com/zoo-js/3dcube
 
 ## ❤️ Together
 

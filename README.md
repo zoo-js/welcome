@@ -28,7 +28,7 @@
 
 - 娱乐
   - 消消乐
-  - 魔方
+  - 魔方：https://github.com/zoo-js/3dcube
 
 ## ❤️ 共建
 
