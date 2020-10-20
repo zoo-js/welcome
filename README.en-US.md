@@ -28,7 +28,12 @@
 
 - Decreation
   - Xiao Xiao Le
+  - Lian Lian Kan
   - Rubik's cube: https://github.com/zoo-js/3dcube
+  - Puzzle
+  - Huarong Road
+  - Memory flop
+  - Sokoban
 
 ## ❤️ Together
 
