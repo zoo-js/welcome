@@ -12,13 +12,9 @@
 
 ## 🍭 Project
 
-### 💖 Done
-
 - Adopt
   - Address: https://github.com/zoo-js/zoo
   - Online preview adopt: https://zoo-js.github.io/zoo-issue-helper/
-
-### ✨ Will do
 
 - Tool
 

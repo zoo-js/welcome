@@ -12,13 +12,9 @@
 
 ## 🍭 项目
 
-### 💖 完成
-
 - 领养
   - 地址：https://github.com/zoo-js/zoo
   - 线上预览领取：https://zoo-js.github.io/zoo-issue-helper/
-
-### ✨ 在建
 
 - 工具
 
