@@ -16,6 +16,10 @@
   - 地址：https://github.com/zoo-js/zoo
   - 线上预览领取：https://zoo-js.github.io/zoo-issue-helper/
 
+- 数据
+  - 数据存储：https://github.com/zoo-js/zoo-data
+  - 人员 Charts 展示：https://github.com/zoo-js/zoo-charts
+
 - 工具
 
 - 知识

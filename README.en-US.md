@@ -16,6 +16,10 @@
   - Address: https://github.com/zoo-js/zoo
   - Online preview adopt: https://zoo-js.github.io/zoo-issue-helper/
 
+- Data
+  - Data storage: https://github.com/zoo-js/zoo-data
+  - People charts display: https://github.com/zoo-js/zoo-charts
+
 - Tool
 
 - knowledge
