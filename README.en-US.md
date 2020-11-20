@@ -2,10 +2,10 @@
   <img width="200" src="https://avatars1.githubusercontent.com/u/70757173?s=200&v=4">
 </p>
 
-<h1 align="center">Cute Pet zoo</h1>
+<h1 align="center">Cute zoo</h1>
 
 <div align="center">
-  With cute pets as the ecology, build a cute and happy cute amusement park.
+  With cute as the ecology, build a cute and happy cute amusement park.
 </div>
 
 [简体中文](./README.md) | English
