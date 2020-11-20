@@ -2,10 +2,10 @@
   <img width="200" src="https://avatars1.githubusercontent.com/u/70757173?s=200&v=4">
 </p>
 
-<h1 align="center">萌宠乐园 zoo-js</h1>
+<h1 align="center">萌萌乐园 zoo-js</h1>
 
 <div align="center">
-  以萌宠为生态，建立一个可爱、欢乐萌萌哒游乐园。
+  以萌物为生态，建立一个可爱、欢乐萌萌哒游乐园。
 </div>
 
 简体中文 | [English](./README.en-US.md)
